@@ -1,0 +1,47 @@
+.AddVacation {
+    text-align: center;
+
+    margin-bottom: 10px;
+} 
+.formWithTitle{
+    border: 2px solid black;
+    border-color: rgb(155, 152, 152);
+    border-width: 5px;
+    width: 400px;
+    height: 530px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    margin-bottom: 6px;
+    margin: 0 auto;
+    margin-top: 20px;
+} 
+.AddVacation p{
+    padding-left: 10px;
+    font-weight: bold;
+    color: rgba(2, 164, 214, 0.758);
+    font-size: 20px;
+}
+ .AddVacation form input{
+    width: 250px;
+}
+.AddVacation form label{
+    text-align: right;
+    color: black;
+}
+form{
+    padding: auto;
+}
+.formWithTitle button{
+    margin-bottom: 10px;
+    border-radius: 4px;
+    width: 230px;
+
+}
+.formWithTitle .Add{
+    background-color: blue;
+    color: white;
+}
+
+.img_class{
+    width:188px;
+}

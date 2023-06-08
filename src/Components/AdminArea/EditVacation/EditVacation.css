@@ -1,0 +1,45 @@
+.EditVacation {
+    text-align: center;
+ 
+}
+.EditVacation {
+    text-align: center;
+    padding-left: auto;
+} 
+.EditVacation .formWhithTitleEdit{
+    margin: 0 auto;
+    border: 1px solid black;
+    border-color: rgb(155, 152, 152);
+    border-width: 5px;
+    width: 400px;
+    height: 530px;
+    margin-top:20px;
+} 
+.EditVacation p{
+    padding-left: 10px;
+    font-weight: bold;
+    color: rgba(2, 164, 214, 0.758);
+    font-size: 20px;
+}
+ .EditVacation form input{
+    width: 250px;
+}
+.EditVacation form label{
+    text-align: right;
+    color: black;
+}
+.EditVacation form{
+    padding: auto;
+}
+.EditVacation  button{
+    margin-bottom: 10px;
+    border-radius: 4px;
+    width: 230px;
+}
+.EditVacation .Edit{
+    background-color: blue;
+    color: white;
+}
+.img_class{
+    width: 188px;
+}

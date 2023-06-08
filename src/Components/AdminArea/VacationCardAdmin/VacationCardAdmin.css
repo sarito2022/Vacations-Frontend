@@ -1,0 +1,90 @@
+.VacationCardAdmin {
+    border: 1px solid black;
+    width: 30%;
+    height: 360px;
+    border-radius: 10px;
+}
+
+.divForDate{
+    background-color: rgba(180,227,255,255);
+    border-top-right-radius: 10px 10px;
+    border-top-left-radius: 10px 10px;
+    height: 40px;
+    font-size: 14px;
+    line-height: 30px;
+    position: relative;
+    top: -13px;
+    text-align: left;
+    padding-left: 5px;
+}
+
+.VacationCardAdmin .buttonInCard{
+    width: 75px;
+    height: 30px;
+    color: gray;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 25px;
+    font-size: 12px;
+    border: 0px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.VacationCardAdmin .divForButtons{
+    padding-left: 0;
+    position:absolute;
+    left: 3px;
+}
+
+.VacationCardAdmin .divForImage{
+    position: relative;
+    height: 160px;
+    position: relative;
+    border-radius: 9px;
+    background-size: 100% 100%;
+}
+
+.destination{
+    clear:both;
+    clear: both;
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    color: white;
+}
+
+.desc_price{
+    border-top-right-radius: 10px 10px;
+    border-top-left-radius: 10px 10px;
+    position: relative;
+    top: -20px;
+    background-color: white;
+    position: relative;
+    height: 170px;
+}
+
+.price{
+    background-color: rgba(3,162,254,255);
+    width: 90%;
+    text-align: center;
+    margin: 0 auto;
+    position: absolute;
+    bottom: 0;
+    height: 30px;
+    line-height: 30px;
+    color: white;
+}
+
+.description{
+    color: rgba(187,187,187,255);
+    height: 100px;
+    text-align: center;
+    width: 90%;
+    margin-left: 5%;
+    display: block;
+    padding-top: 10px;
+    height: 77%;
+    overflow: auto;
+}

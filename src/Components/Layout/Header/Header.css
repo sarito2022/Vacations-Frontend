@@ -1,0 +1,19 @@
+.Header {
+    height: 50px;
+    margin-top: 0px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    align-content: stretch;
+    justify-content: space-around;
+}
+
+.Header .auth{
+    margin: 5px;
+}
+
+.logout_link{
+    color:blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
